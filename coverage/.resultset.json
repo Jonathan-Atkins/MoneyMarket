@@ -1,0 +1,78 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/models/attendance.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/models/market.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/models/market_vendor.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/Users/jonathanatkins/MoneyMarket/be_money_market/app/models/vendor.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {}
+      }
+    },
+    "timestamp": 1748732985
+  }
+}
