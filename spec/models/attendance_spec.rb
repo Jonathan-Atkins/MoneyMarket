@@ -7,9 +7,14 @@ RSpec.describe Attendance, type: :model do
   end
 
   describe 'validations' do
+    subject do
+      FactoryBot.create(:attendance) 
+    end
+
     it {
-      should validate_uniqueness_of(:vendor_id)
+      is_expected.to validate_uniqueness_of(:vendor_id)
         .scoped_to(:market_id, :date)
+        .with_message("has already been marked present for this market on that date")
     }
   end
 end
